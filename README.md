@@ -49,6 +49,7 @@ Welcome to my Github profile
 ### ⚙️ Tools & Environment
 
 [![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.com/)
+[![Dotykačka](https://custom-icon-badges.demolab.com/badge/Dotyka%C4%8Dka-%1AA22C.svg?style=for-the-badge&logo=dotyapp&logoColor=white)](https://dotykacka.cz/)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)](https://colab.google/)
 [![Google Keep](https://img.shields.io/badge/Google_Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=white)](https://keep.google.com)
