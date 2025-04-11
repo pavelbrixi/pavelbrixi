@@ -92,7 +92,7 @@ Welcome to my Github profile
 
 [![Siemens Systems](https://img.shields.io/badge/Siemens_Systems-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/systems/industrial/plc/logo.html)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Reliance](https://img.shields.io/badge/Reliance_4-1ADEFD?style=for-the-badge)](https://www.reliance-scada.com/)
+[![Reliance](https://img.shields.io/badge/Reliance-1ADEFD?style=for-the-badge)](https://www.reliance-scada.com/)
 [![Cisco Systems](https://img.shields.io/badge/Cisco_Systems-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
 [![Epson Systems](https://img.shields.io/badge/Epson_Systems-003399?style=for-the-badge&logo=epson)](https://epson.com/wireless-projector-app)
 [![Proteus 8](https://img.shields.io/badge/Proteus_8-494E5F?style=for-the-badge)](https://www.labcenter.com/)
